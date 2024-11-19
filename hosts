@@ -1,0 +1,2 @@
+[azure_vm]
+40.115.46.23 ansible_user=hw
